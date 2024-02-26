@@ -1,2 +1,3 @@
 # LAB211_Projects
-Contains all LAB211 projects
+
+Contains all of LAB211 projects
