@@ -22,3 +22,21 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/PerimeterAndAreaCalculator/nbproject/private/
+/StudentWithSort/nbproject/private/
+/PerimeterAndAreaCalculator/build/
+/AnalyzePathProgram/nbproject/private/
+/ManageHuman/nbproject/private/
+/HumanManager/nbproject/private/
+/CheckDataProgram/nbproject/private/
+/AnalyzeUserInputString/nbproject/private/
+/JavaApplication32/nbproject/private/
+/TaskManagementCCRM/nbproject/private/
+/HandyExpense/nbproject/private/
+/TienPhongBank/nbproject/private/
+/TienPhongBank/build/
+/GarbageTruck/nbproject/private/
+/GarbageTruck/build/
+/Helpers/nbproject/private/
+/TaxCalculator/nbproject/private/
+/TaxCalculator/build/
