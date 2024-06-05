@@ -1,4 +1,4 @@
-## Boiler plate
+## Boilerplate
 
 This is a folder to get a quick java MVC program get going
 
@@ -12,7 +12,7 @@ This is a folder to get a quick java MVC program get going
 
 ## Work flow
 
-- Program go from `entry` -> `controller` -> `view`
+- Program go from `entry` -> `view` -> `controller`
 
 - In `view`, you would want to take user input, validate and call controller functions. Also, you can instantiate any objects needed there and pass to the controller's functins
 
